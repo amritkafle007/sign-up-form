@@ -89,7 +89,7 @@ input{
   flex-direction: column;
   gap: 5px;
 }
-input[type = "password"]:invalid{
+input[type = "password"]:user-invalid{
   border: 2px solid red;
   outline:none;
 }
